@@ -1,0 +1,29 @@
+button {
+    margin: 5px;
+  }
+.todo{
+    display:flex;
+    justify-content:center;
+    font-weight:500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}  
+
+.search{
+    display:flex;
+    justify-content: center;
+
+
+
+}
+.list{
+    border: 5px solid black;
+    margin-left:400px;
+    margin-right:400px;
+    margin-top:140px;
+    padding-bottom:50px;
+
+}
+.search input{
+    width:500px;
+}
